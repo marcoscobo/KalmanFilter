@@ -3,7 +3,7 @@ from datetime import datetime
 import MetaTrader5 as mt5
 
 ## Funcion para establecer conexion con MetaTrader5
-def conexion(server='ICMarketsSC-Demo', login=50391826, password='wsAsSPzk'):
+def conexion(server='ICMarketsSC-Demo', login=******, password='********'):
 
 	# Establecemos la conexión y en caso de error avisamos de este
 	if not mt5.initialize(server=server, login=login, password=password):
