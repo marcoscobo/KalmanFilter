@@ -27,3 +27,4 @@ tabulate==0.8.9
 threadpoolctl==2.2.0
 urllib3==1.26.4
 zope.interface==5.2.0
+pillow>=8.3.2
